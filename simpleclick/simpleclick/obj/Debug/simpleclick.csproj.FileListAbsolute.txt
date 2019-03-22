@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\bin\Debug\simpleclick.exe.config
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\bin\Debug\simpleclick.exe
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\bin\Debug\simpleclick.pdb
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\obj\Debug\simpleclick.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\obj\Debug\simpleclick.Form1.resources
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\obj\Debug\simpleclick.Properties.Resources.resources
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\obj\Debug\simpleclick.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\obj\Debug\simpleclick.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\obj\Debug\simpleclick.exe
+C:\Users\Administrator\source\repos\simpleclick\simpleclick\obj\Debug\simpleclick.pdb

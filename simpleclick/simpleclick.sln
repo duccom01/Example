@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleclick", "simpleclick\simpleclick.csproj", "{359FF8E4-B022-4AB1-8B4C-0A14006406DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359FF8E4-B022-4AB1-8B4C-0A14006406DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359FF8E4-B022-4AB1-8B4C-0A14006406DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359FF8E4-B022-4AB1-8B4C-0A14006406DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359FF8E4-B022-4AB1-8B4C-0A14006406DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D9B6A50-3B78-4A43-8619-D875180B7F2D}
+	EndGlobalSection
+EndGlobal
